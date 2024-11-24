@@ -1,0 +1,93 @@
+{
+    "Python Basics": [
+        {
+            "question": "What is Python?",
+            "options": [
+                "1. Programming language",
+                "2. Snake",
+                "3. Fruit"
+            ],
+            "answer": "1. Programming language"
+        },
+        {
+            "question": "What is the output of print(2+2)?",
+            "options": [
+                "1. 4",
+                "2. 22",
+                "3. Error"
+            ],
+            "answer": "1. 4"
+        },
+        {
+            "question": "What does PEP 8 stand for?",
+            "options": [
+                "1. Python Enhancement Proposal",
+                "2. Python Evaluation Protocol",
+                "3. Python Execution Plan"
+            ],
+            "answer": "1. Python Enhancement Proposal"
+        }
+    ],
+    "Advanced Python": [
+        {
+            "question": "What is list comprehension in Python?",
+            "options": [
+                "1. A function",
+                "2. A shorthand for creating lists",
+                "3. A debugging tool",
+                "4. A type of loop"
+            ],
+            "answer": "2. A shorthand for creating lists"
+        },
+        {
+            "question": "What does '==' operator do?",
+            "options": [
+                "1. Assigns a value",
+                "2. Compares values",
+                "3. Returns a string",
+                "4. Checks for None"
+            ],
+            "answer": "2. Compares values"
+        },
+        {
+            "question": "What does the 'zip' function do?",
+            "options": [
+                "1. Merges two lists",
+                "2. Combines lists element-wise",
+                "3. Reverses a list",
+                "4. Sorts a list"
+            ],
+            "answer": "2. Combines lists element-wise"
+        },
+        {
+            "question": "What is the purpose of the 'with' statement?",
+            "options": [
+                "1. Error handling",
+                "2. Looping",
+                "3. Simplifying exception handling",
+                "4. Resource management"
+            ],
+            "answer": "4. Resource management"
+        },
+        {
+            "question": "What is a generator function?",
+            "options": [
+                "1. A function that returns values",
+                "2. A function that yields values",
+                "3. A function that calls itself",
+                "4. A function that raises exceptions"
+            ],
+            "answer": "2. A function that yields values"
+        },
+        {
+            "question": "What is the purpose of decorators in Python?",
+            "options": [
+                "1. To decorate functions",
+                "2. To modify function behavior",
+                "3. To speed up functions",
+                "4. To replace functions"
+            ],
+            "answer": "2. To modify function behavior"
+        }
+    ]
+}
